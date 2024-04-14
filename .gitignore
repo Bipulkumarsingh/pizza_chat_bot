@@ -1,0 +1,16 @@
+# All the unused paths are commented out.
+#Please uncomment it upon requirement
+
+# IDE
+.idea/
+.vscode/
+
+
+# Environments
+venv/
+.streamlit/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
